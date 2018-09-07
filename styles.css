@@ -5,10 +5,10 @@ section{
   height: 100vh;
   flex-direction: column;
 }
-.img{
-  justify-content: center;
+img{
+  display: flex
+  justify-content: flex-end;
 
-  
 }
 
 body{
